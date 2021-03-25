@@ -14,7 +14,6 @@ public class AfishaMoviestThirdTest_5 {
   private MovieItem fourth = new MovieItem(4, 4, "Джентльмены", "Боевик");
   private MovieItem fifth = new MovieItem(5, 5, "Отель Белград", "Комедия");
 
-
   @BeforeEach
   public void setUp() {
     manager.add(first);
